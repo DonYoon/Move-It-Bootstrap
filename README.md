@@ -12,7 +12,7 @@ This project showcases the use of Bootstrap to create a responsive and modern we
 
 ## Technologies Used
 
-- **Bootstrap 5**: This project uses the latest version of Bootstrap to create a responsive layout and utilize pre-built components such as the navigation bar, carousel, and buttons.
+- **Bootstrap 5**: This project uses the latest version of Bootstrap to create a responsive layout and utilise pre-built components such as the navigation bar, carousel, and buttons.
 - **HTML5**: The site is built with HTML5, including semantic elements and structure.
 - **CSS3**: Custom styling is added for feature icons and other elements to enhance the design.
 
