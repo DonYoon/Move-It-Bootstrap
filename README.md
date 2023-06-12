@@ -19,7 +19,3 @@ This project showcases the use of Bootstrap to create a responsive and modern we
 ## Getting Started
 
 To view the project, simply open the `index.html` file in your preferred web browser. No additional setup is required, as all dependencies are loaded via CDN.
-
-## License
-
-This project is for demonstration purposes only and is not intended for commercial use.
